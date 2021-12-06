@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <img width="690" height="172" src="https://media-exp1.licdn.com/dms/image/C4D16AQFFRnKvf6QhxQ/profile-displaybackgroundimage-shrink_200_800/0/1626336591449?e=1644451200&v=beta&t=KPzRfJlMSFYVzKg-PgWaI55QrVR9hNs-KudCddjAnzU">
+</p>
 
-<!--
-**mojtabaakbari221b/mojtabaakbari221b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mojtaba-akbari-774443215/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mojtaba.akbari.221b@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mojtabaakbari_221b)
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### <i>About</i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Learning :fire: : Web Development | Linux  
+-  Interests :zap: : Open-Source | Music
+
+<p align="center">
+  <img alt="Mojtaba's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mojtabaakbari221b&show_icons=true&theme=radical">
+</p>
+
+-----
