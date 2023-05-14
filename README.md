@@ -1,8 +1,4 @@
-# Hey there :wave:
-
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdl.aviny.com%2FAlbum%2Fdefa-moghadas%2FShakhes%2Faviny%2FDAST_NEVESHTEH%2Fkamel%2F14.png&f=1&nofb=1&ipt=1f0ed26880908b351800453c3c961d6c31a7813ff542026f0b9af01bd4f6c2d3&ipo=images" alt="Shahid Aviny">
-
-![](https://komarev.com/ghpvc/?username=mojtabaakbari221b)
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.salameno.com%2Fd%2F2021%2F03%2F12%2F4%2F15119121.jpg&f=1&nofb=1&ipt=bdc4cb58ba346bd769cc8784e4d8ced410a330e035fa60db231c3d9490aedd15&ipo=images" alt="حاج قاسم سلیمانی">
 
 ## About me
 
